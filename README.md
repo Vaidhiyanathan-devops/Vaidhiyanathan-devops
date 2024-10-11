@@ -35,12 +35,6 @@ I am a passionate **DevOps Engineer** skilled in automating infrastructure and c
 
 ---
 
-## 📈 GitHub Stats
-
-![Vaidhiyanathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaidhiyanathan&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaidhiyanathan-r)
