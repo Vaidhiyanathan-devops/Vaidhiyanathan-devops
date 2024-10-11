@@ -1,63 +1,60 @@
-# 👋 Hi, I'm Vaidhiyanathan R
+# 👨‍💻 Vaidhiyanathan R — DevOps Engineer 
 
-## 🚀 About Me
-I am a **DevOps Engineer** with 1 year of hands-on experience. Currently, I'm working as a **DevOps Engineer Trainee** at **Flex, Chennai**. My passion lies in automating infrastructure, ensuring seamless CI/CD pipelines, and implementing scalable and secure cloud solutions. 
+**🚀 DevOps Trainee @ Flex | Cloud & Automation Enthusiast | CI/CD Specialist**
 
-I have a solid foundation in **cloud platforms**, **containerization**, and **infrastructure as code (IaC)**, along with a strong interest in **monitoring tools** and **DevSecOps practices**. I'm constantly exploring new tools and technologies that improve efficiency and reliability in the DevOps ecosystem.
+I am a passionate **DevOps Engineer** skilled in automating infrastructure and creating seamless **CI/CD pipelines** using the latest tools and technologies. I enjoy deploying scalable applications on cloud platforms, and I'm deeply involved in **container orchestration**, **monitoring**, and **DevSecOps** practices.
 
-- 💼 Currently working at: **Flex, Chennai**
-- 🎓 Education: **B.Sc. in Electronics and Communication Systems**, Sastra Deemed University
-- 🌍 Connect with me: [LinkedIn](https://www.linkedin.com/in/vaidhiyanathan-r)
+---
+
+### ⚡ Quick Facts:
+- 🏢 Currently working at **Flex, Chennai**
+- 🎓 B.Sc. in Electronics and Communication Systems, **Sastra Deemed University**
+- 🌟 1 Year of hands-on experience in DevOps practices
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**Cloud Platforms:**
-- **Amazon Web Services (AWS)**
-- **Microsoft Azure**
-
-**DevOps Tools:**
-- **Docker**, **Kubernetes**, **Terraform**, **Ansible**, **Trivy**, **SonarQube**, **Helm**, **Maven**
-
-**CI/CD Pipelines:**
-- **GitLab CI**, **GitHub Actions**, **Jenkins**, **ArgoCD**
-
-**Monitoring & Logging:**
-- **Prometheus**, **Grafana**, **ELK stack**
-
-**Networking:**
-- Knowledge of **TCP/IP**, **DNS**, **DHCP**, **BGP**, **SSH**, **STP**
+| **Cloud Platforms** | **DevOps Tools** | **CI/CD** | **Monitoring** | **Other Skills** |
+|--------------------|------------------|-----------|----------------|------------------|
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) | Networking (TCP/IP, DNS, DHCP) |
+| ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![GitLab CI](https://img.shields.io/badge/GitLab_CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) | Operating Systems (Linux, Windows) |
+| ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) | ![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white) | Security Tools (Trivy, SonarQube) |
 
 ---
 
-## 🧑‍💻 Projects
+## 🔥 Key Projects
 
 ### 1. **MERN Stack DevOpsified**
-- **Technologies:** AWS, Terraform, Jenkins, ArgoCD, Helm, Prometheus, Grafana
-- **Description:** 
-    - Deployed a three-tier MERN stack application on Kubernetes.
-    - Implemented DevSecOps practices by integrating **Jenkins** with **Trivy** and **SonarQube** for vulnerability and code quality scans.
-    - Automated infrastructure provisioning using **Terraform** on AWS.
-    - Set up EKS clusters, load balancers, and ECR repositories.
-    - Deployed and monitored the application using **ArgoCD**, **Prometheus**, and **Grafana**.
+🚀 *Cloud, Automation & Monitoring*  
+- **Technologies**: AWS, Terraform, Jenkins, ArgoCD, Helm, Prometheus, Grafana
+- **Highlights**: Deployed a complete **MERN** stack on **Kubernetes** with **DevSecOps** integration.
+  - Integrated **Trivy** for security scans and **SonarQube** for code quality.
+  - Automated the setup using **Terraform** for AWS infrastructure.
+  - Comprehensive monitoring and alerting using **Prometheus** and **Grafana**.
 
 ---
 
-## 🏅 Certifications
+## 📈 GitHub Stats
+
+![Vaidhiyanathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaidhiyanathan&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaidhiyanathan-r)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaidhiyanathan/devops)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaidhi.r03@gmail.com)
+
+---
+
+## 🎯 Certifications
 - **Fundamentals of Networks (CCNA 200-301)**
 - **DevOps Foundations Certification**
 - **AWS Essential Training for Architects**
 
 ---
 
-## 📫 How to Reach Me
-- **Phone:** +91 8637456936
-- **Email:** [vaidhi.r03@gmail.com](mailto:vaidhi.r03@gmail.com)
-- **LinkedIn:** [Vaidhiyanathan R](https://www.linkedin.com/in/vaidhiyanathan-r)
-- **GitHub:** [Vaidhiyanathan/devops](https://github.com/Vaidhiyanathan/devops)
-
----
-
 ## ⚡ Fun Fact
-- When I'm not solving infrastructure problems, I love exploring new technologies and keeping up with the latest trends in the DevOps world.
+*When I'm not building infrastructure, I enjoy keeping up with the latest trends in cloud and automation technologies!*
