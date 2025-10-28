@@ -7,9 +7,9 @@ I am a passionate **DevOps Engineer** skilled in automating infrastructure and c
 ---
 
 ### ⚡ Quick Facts:
-- 🏢 Currently working at **Flex, Chennai**
+- 🏢 Currently working at **ZOHO, Chennai**
 - 🎓 B.Sc. in Electronics and Communication Systems, **Sastra Deemed University**
-- 🌟 1 Year of hands-on experience in DevOps practices
+- 🌟 2 Year of hands-on experience in DevOps practices
 
 ---
 
