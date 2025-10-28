@@ -1,6 +1,6 @@
 # 👨‍💻 Vaidhiyanathan R — DevOps Engineer 
 
-**🚀 DevOps Trainee @ Flex | Cloud & Automation Enthusiast | CI/CD Specialist**
+**🚀 DevOps Engineer @ Zoho Corporation | Cloud & Automation Enthusiast | CI/CD Specialist**
 
 I am a passionate **DevOps Engineer** skilled in automating infrastructure and creating seamless **CI/CD pipelines** using the latest tools and technologies. I enjoy deploying scalable applications on cloud platforms, and I'm deeply involved in **container orchestration**, **monitoring**, and **DevSecOps** practices.
 
